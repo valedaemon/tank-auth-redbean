@@ -1,0 +1,14 @@
+OVERVIEW
+Tank_Auth (http://konyukhov.com/soft/tank_auth/) is an authentication library for Codeigniter 
+(http://www.codeigniter.com).
+
+By default, Tank_Auth's models are written solely for use with Codeigniter's DB class. This package converts those 
+models so that they utilize Redbean's methods instead.
+
+This is an alpha package as not all functions have been unit tested. However, all basic functionality has been
+confirmed through testing.
+
+INSTALLATION
+To install this, copy the three model files into your <codeigniter>/application/models/tank_auth/ directory. If you
+wish to keep the original models, be sure to back them up first.
+
